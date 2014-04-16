@@ -1,0 +1,30 @@
+* rplayer
+
+** java_server
+
+*** base
+*** android
+*** windows
+
+** java_client
+*** base
+*** android
+*** windows
+
+** cpp_client
+
+
+
+examples:
+
+import rplayer.server_base.rSchedulerClient
+import rplayer.server_base.rScheduler
+import rplayer.server_base.rMediaPlayer
+
+import rplayer.server_android.rMediaPlayer_Impl
+
+
+
+
+import rPlayer.ServerBase.rSchedulerClient
+DieTraktorNeli2010
